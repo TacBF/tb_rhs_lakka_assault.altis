@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Lakka_Assault">
+
+	<Key ID="STR_TB_missionTitle_TB_Lakka_Assault">
+		<Original>Lakka_Assault</Original>
+		<English>Lakka_Assault</English>
+		<German>Lakka_Assault</German>
+		<Italian>Lakka_Assault</Italian>
+		<Spanish>Lakka_Assault</Spanish>
+		<French>Lakka_Assault</French>
+		<Czech>Lakka_Assault</Czech>
+		<Russian>Lakka_Assault</Russian>
+		<Polish>Lakka_Assault</Polish>
+		<Hungarian>Lakka_Assault</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Lakka_Assault">
+		<Original>TacBF A&amp;S[T-10]: Lakka_Assault</Original>
+		<English>TacBF A&amp;S[T-10]: Lakka_Assault</English>
+		<German>TacBF A&amp;S[T-10]: Lakka_Assault</German>
+		<Italian>TacBF A&amp;S[T-10]: Lakka_Assault</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Lakka_Assault</Spanish>
+		<French>TacBF A&amp;S[T-10]: Lakka_Assault</French>
+		<Czech>TacBF A&amp;S[T-10]: Lakka_Assault</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Lakka_Assault</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Lakka_Assault</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Lakka_Assault</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
